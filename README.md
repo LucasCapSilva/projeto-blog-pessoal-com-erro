@@ -5,9 +5,9 @@
 
 <h2>Atividade</h2>
 
-<h3><conserte a aplicação e indique os 7 erros presente</h3>
-
+<h2><conserte a aplicação e indique os 7 erros presente</h3>
 <h2><Documentação  guia</h2>
+	
 <table width="100%">
 	<tr>
         <td width="10%"><img src="https://i.imgur.com/PHgmbCh.png" title="source: imgur.com" /></td>

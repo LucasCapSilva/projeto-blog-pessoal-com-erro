@@ -6,9 +6,7 @@
 <h2>Atividade</h2>
 
 <h3><conserte a aplicação e indique os 7 erros presente</h3>
-
-
-	  <h2><Documentação  guia</h2><
-        <img src="https://i.imgur.com/XFnTrpX.png" title="source: imgur.com"/>
-        <a href="https://github.com/rafaelq80/cookbook_spring">Spring</a>
+<h2><Documentação  guia</h2><
+<img src="https://i.imgur.com/XFnTrpX.png" title="source: imgur.com"/>
+<a href="https://github.com/rafaelq80/cookbook_spring">Spring</a>
 

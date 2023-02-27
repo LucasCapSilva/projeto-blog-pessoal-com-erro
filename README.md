@@ -7,22 +7,8 @@
 
 <h3><conserte a aplicação e indique os 7 erros presente</h3>
 
-<table width="100%">
 
-    <tr>
-	  <td>   <h2><Documentação  guia</h2></td>
-        <td><img src="https://i.imgur.com/XFnTrpX.png" title="source: imgur.com"/></td>
-        <td><a href="https://github.com/rafaelq80/cookbook_spring">Spring</a></td>
-    </tr>
-  
-</table>
-	
-	
-	<table width="100%">
-	
-    <tr>
-        <td><img src="https://i.imgur.com/KOZy0uM.png" title="source: imgur.com"/></td>
-        <td><a href="05_devops/README.md">DEVOPS</a></td>
-    </tr>
-</table>
+	  <h2><Documentação  guia</h2><
+        <img src="https://i.imgur.com/XFnTrpX.png" title="source: imgur.com"/>
+        <a href="https://github.com/rafaelq80/cookbook_spring">Spring</a>
 

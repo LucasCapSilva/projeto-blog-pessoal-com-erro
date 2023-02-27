@@ -16,4 +16,13 @@
     </tr>
   
 </table>
+	
+	
+	<table width="100%">
+	
+    <tr>
+        <td><img src="https://i.imgur.com/KOZy0uM.png" title="source: imgur.com"/></td>
+        <td><a href="05_devops/README.md">DEVOPS</a></td>
+    </tr>
+</table>
 

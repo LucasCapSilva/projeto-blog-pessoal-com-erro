@@ -10,7 +10,7 @@
 <table width="100%">
 
     <tr>
-	    <h2><Documentação  guia</h2>
+	  <td>   <h2><Documentação  guia</h2></td>
         <td><img src="https://i.imgur.com/XFnTrpX.png" title="source: imgur.com"/></td>
         <td><a href="https://github.com/rafaelq80/cookbook_spring">Spring</a></td>
     </tr>
